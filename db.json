@@ -1,0 +1,194 @@
+{
+  "artikel": [
+    {
+      "id": "1",
+      "text": "Banane",
+      "preis": "1,99"
+    },
+    {
+      "text": "JHa",
+      "preis": "0.03",
+      "id": "PHkrR2n"
+    },
+    {
+      "text": "Äpfel",
+      "preis": "1.55",
+      "id": "4whdhgQ"
+    },
+    {
+      "text": "J",
+      "preis": "0.02",
+      "id": "cgkAM9a"
+    },
+    {
+      "text": "g",
+      "preis": "2.81",
+      "id": "5LsIJXt"
+    },
+    {
+      "text": "Art",
+      "preis": "2.91",
+      "id": "VxSA9Td"
+    },
+    {
+      "text": "s",
+      "preis": "2.12",
+      "id": "kV82v1T"
+    },
+    {
+      "text": "d",
+      "preis": "0.03",
+      "id": "N66yXKc"
+    },
+    {
+      "text": "s",
+      "preis": "0.05",
+      "id": "GSSu25G"
+    },
+    {
+      "text": "h",
+      "preis": "0.03",
+      "id": "9VhRU5L"
+    },
+    {
+      "text": "s",
+      "preis": "2.90",
+      "id": "aPeULXv"
+    },
+    {
+      "text": "hjkhj",
+      "preis": "5.89",
+      "id": "CK_GnVZ"
+    },
+    {
+      "text": "Hanf",
+      "preis": "46.90",
+      "id": "GI5oQzP"
+    },
+    {
+      "text": "Banane",
+      "preis": "2.89",
+      "id": "si22Wip"
+    },
+    {
+      "text": "Äpfel",
+      "preis": "3.67",
+      "id": "MjPQYMg"
+    },
+    {
+      "text": "Lauch",
+      "preis": "2.68",
+      "id": "rjlQRSo"
+    },
+    {
+      "text": "Äpfel",
+      "preis": "2.99",
+      "id": "TvUuZKE"
+    },
+    {
+      "text": "Banane",
+      "preis": "2.99",
+      "id": "03AWMzr"
+    },
+    {
+      "text": "B",
+      "preis": "",
+      "id": "Aicw1bp"
+    },
+    {
+      "text": "h",
+      "preis": "0.03",
+      "id": "kZzYXbe"
+    },
+    {
+      "text": "sdas",
+      "preis": "0.02",
+      "id": "QdVqptw"
+    },
+    {
+      "text": "Hans",
+      "preis": "2.99",
+      "id": "yuJGZ-c"
+    },
+    {
+      "text": "Hello Wurm",
+      "preis": "1.29",
+      "id": "LYI8Z2b"
+    },
+    {
+      "text": "Uhr",
+      "preis": "30.01",
+      "id": "Lq0Z4Ki"
+    },
+    {
+      "text": "jsadja",
+      "preis": "2",
+      "id": "XGolgk_"
+    },
+    {
+      "text": "uhh",
+      "preis": "0.02",
+      "id": "p_u7_Tk"
+    },
+    {
+      "text": "Schmand",
+      "preis": "1.7",
+      "id": "RvmzGmN"
+    },
+    {
+      "text": "baba",
+      "preis": "1",
+      "id": "z5zbnO_"
+    },
+    {
+      "text": "Gurken",
+      "preis": "2.3",
+      "id": "5pbns6m"
+    },
+    {
+      "text": "Birne",
+      "preis": "1.99",
+      "id": "rlCL_0i"
+    },
+    {
+      "text": "Toilettenpapier",
+      "preis": "4.89",
+      "id": "XqCGqQq"
+    },
+    {
+      "text": "Zebras",
+      "preis": "23.45",
+      "id": "0xmLFSo"
+    },
+    {
+      "text": "Tracker",
+      "preis": "21",
+      "id": "B6SsiRp"
+    },
+    {
+      "text": "Haus",
+      "preis": "39301301",
+      "id": "h71V56L"
+    }
+  ],
+  "invest": [
+    {
+      "invests": "3.30",
+      "text": "H",
+      "datum": "2022-02-02",
+      "feld": [
+        {
+          "text": "baba",
+          "preis": "1",
+          "id": "z5zbnO_"
+        },
+        {
+          "text": "Gurken",
+          "preis": "2.3",
+          "id": "5pbns6m"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
